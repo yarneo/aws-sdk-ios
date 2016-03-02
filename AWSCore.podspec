@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = 'AWSCore'
+  s.name         = 'MP-AWSCore'
   s.version      = '2.3.5'
   s.summary      = 'Amazon Web Services SDK for iOS.'
 
